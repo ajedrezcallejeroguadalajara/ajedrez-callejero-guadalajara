@@ -2,75 +2,69 @@
 layout: post
 title: Torneo Ajedrez Callejero Guadalajara
 ---
-<h2>7 Septiembre 2024</h2>
-<h3><a href="https://info64.org/i-torneo-de-ferias-de-guadalajara/standings">Resultados</a></h3>
-<img class="img-fluid" src="/2024-09-07-torneo-ajedrez-callejero-guadalajara.png" alt="Cartel torneo ajedrez callejero guadalajara Septiembre 2024.png"/>
-<section class="mt-3">
-<p><b>Dia de juego</b>: 07 de Septiembre de 2024 Lugar de juego: Parque de la Concordia, Guadalajara.</p>
+## 7 Septiembre 2024
+### [Resultados](https://info64.org/i-torneo-de-ferias-de-guadalajara/standings)
 
-<p><b>Sistema de juego</b>: Torneo Suizo a 6 rondas.</p>
+![Cartel torneo ajedrez callejero guadalajara Septiembre 2024.png](/2024-09-07-torneo-ajedrez-callejero-guadalajara.png)
 
-<p><b>Control de tiempo</b>: 10 minutos + 2 segundos de incremento por jugador.</p>
+**Dia de juego**: 07 de Septiembre de 2024 Lugar de juego: Parque de la Concordia, Guadalajara.
 
-<p><b>Programa de emparejamiento</b>: Vega. Criterios de desempate:</p>
+**Sistema de juego**: Torneo Suizo a 6 rondas.
 
-<ol>
-<li>Bucholtz total</li>
-<li>Bucholtz -1</li>
+**Control de tiempo**: 10 minutos + 2 segundos de incremento por jugador.
 
-<li>Sonnenborg-Berger</li>
+**Programa de emparejamiento**: Vega. Criterios de desempate:
 
-<li>Partidas ganadas</li>
+- Bucholtz total
+- Bucholtz -1
+- Sonnenborg-Berger
+- Partidas ganadas
+- Suma puntuación progresiva
+- Encuentro directo
+- Desempate a discreción organizador
 
-<li>Suma puntuación progresiva</li>
+**Organizadores**: Asociación de Ajedrez Callejero y Ayuntamiento de Guadalajara.
 
-<li>Encuentro directo</li>
+**Árbitro**: Vicente Esteban López, AA.
 
-<li>Desempate a discreción organizador</li>
-</ol>
-<p><b>Organizadores</b>: Asociación de Ajedrez Callejero y Ayuntamiento de Guadalajara.</p>
+**Horario**: 9:30 a 9:45 : Confirmación asistencia jugadores. 10:00 : Comienzo de la primera ronda. 13:30 : Entrega de premios y clausura.
 
-<p><b>Árbitro</b>: Vicente Esteban López, AA.</p>
+**Inscripciones**: Gratuita.
 
-<p><b>Horario</b>: 9:30 a 9:45 : Confirmación asistencia jugadores. 10:00 : Comienzo de la primera ronda. 13:30 : Entrega de premios y clausura.</p>
+Se realizará la inscripción a través del correo electrónico: ajedrezcallejeroguadalajara@gmail.com. En la inscripción será necesario indicar el nombre y apellidos, y el año de nacimiento.
 
-<p><b>Inscripciones</b>: Gratuita.</p>
+**Plazo de inscripción**: hasta el 06 de Septiembre de 2024 a las 18:00 horas vía correo electrónico y hasta 30 minutos antes del inicio de la primera ronda en el lugar de juego. Plazas limitadas a 60 jugadores siguiendo el orden de inscripción.
 
-<p>Se realizará la inscripción a través del correo electrónico: ajedrezcallejeroguadalajara@gmail.com. En la inscripción será necesario indicar el nombre y apellidos, y el año de nacimiento.</p>
+Se eliminará al jugador que no confirme asistencia antes de la primera ronda o que efectúe incomparecencia en alguna ronda sin previo aviso. Las decisiones del árbitro principal serán inapelables.
 
-<p><b>Plazo de inscripción</b>: hasta el 06 de Septiembre de 2024 a las 18:00 horas vía correo electrónico y hasta 30 minutos antes del inicio de la primera ronda en el lugar de juego. Plazas limitadas a 60 jugadores siguiendo el orden de inscripción.</p>
+Ante cualquier eventualidad no expresada en estas bases, será el árbitro principal del torneo quién decida conforme a la reglamentación de la FIDE.
 
-<p>Se eliminará al jugador que no confirme asistencia antes de la primera ronda o que efectúe incomparecencia en alguna ronda sin previo aviso. Las decisiones del árbitro principal serán inapelables.</p>
+No está permitido el uso de teléfonos móviles u otros dispositivos electrónicos en la zona de juego por parte de los jugadores, su uso dará lugar a la pérdida inmediata de la partida o a la exclusión del torneo si su uso es reiterado. Los espectadores deberán silenciar sus teléfonos móviles o serán invitados a abandonar la sala de juego.
 
-<p>Ante cualquier eventualidad no expresada en estas bases, será el árbitro principal del torneo quién decida conforme a la reglamentación de la FIDE.</p>
+Premios: Se establecen las siguientes categorías y premios:
 
-<p>No está permitido el uso de teléfonos móviles u otros dispositivos electrónicos en la zona de juego por parte de los jugadores, su uso dará lugar a la pérdida inmediata de la partida o a la exclusión del torneo si su uso es reiterado. Los espectadores deberán silenciar sus teléfonos móviles o serán invitados a abandonar la sala de juego.</p>
+**Categoría general**: Trofeos al primer, segundo y tercer clasificados Categoría sub 14: Trofeo al 1er clasificado.
 
-<p>Premios: Se establecen las siguientes categorías y premios:</p>
+**Categoría Veteranos ( mayores de 55 años )**: Trofeo al 1er clasificado. Categoría Femenina: Trofeo a la 1era clasificada.
 
-<p><b>Categoría general</b>: Trofeos al primer, segundo y tercer clasificados Categoría sub 14: Trofeo al 1er clasificado.</p>
+**Categoría Local ( socios de la AACG)**: Trofeo al 1er clasificado . Sorteo de material de ajedrez, libros y sorpresas.
 
-<p><b>Categoría Veteranos ( mayores de 55 años )</b>: Trofeo al 1er clasificado. Categoría Femenina: Trofeo a la 1era clasificada.</p>
+En caso de coincidir en varias categorías sólo se podrá optar a una de ellas.
 
-<p><b>Categoría Local ( socios de la AACG)</b>: Trofeo al 1er clasificado . Sorteo de material de ajedrez, libros y sorpresas.</p>
+Para las clasificaciones por edades, se considerarán las siguientes fechas: Sub 14: Nacidos en 2010 y posteriores.
 
-<p>En caso de coincidir en varias categorías sólo se podrá optar a una de ellas.</p>
+Veteranos: Nacidos en 1969 y anteriores.
 
-<p>Para las clasificaciones por edades, se considerarán las siguientes fechas: Sub 14: Nacidos en 2010 y posteriores.</p>
+**Colaboran**:
 
-<p>Veteranos: Nacidos en 1969 y anteriores.</p>
+Delegación provincial de Ajedrez de Guadalajara.
 
-<p>Colaboran:<br/>
+**Organizan**: Asociación Ajedrez Callejero Guadalajara.
 
-Delegación provincial de Ajedrez de Guadalajara.<br/>
+[Club Ajedrez Gambito de Guada](https://gambitodeguada.com).
 
-Club Ajedrez Gambito de Guada.<br/>
+Ayuntamiento de Guadalajara. Concejalía de Deportes y Juventud.
 
-Organiza: Asociación Ajedrez Callejero Guadalajara.<br/>
+Los participantes en el torneo autorizan la publicación de sus datos personales en los diferentes medios de comunicación que la organización considere oportunos para la necesaria difusión del evento ( listados de resultados, clasificaciones, participantes, imágenes, partidas, etc. ).
 
-Ayuntamiento de Guadalajara. Concejalía de Deportes y Juventud.<br/>
-</p>
-
-<p>Los participantes en el torneo autorizan la publicación de sus datos personales en los diferentes medios de comunicación que la organización considere oportunos para la necesaria difusión del evento ( listados de resultados, clasificaciones, participantes, imágenes, partidas, etc. ).</p>
-
-<p>La inscripción en este torneo supone la plena aceptación de las presentes bases.</p>
+La inscripción en este torneo supone la plena aceptación de las presentes bases.
