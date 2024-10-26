@@ -1,9 +1,0 @@
-ol.roman {
-  counter-reset: roman-counter;
-  list-style: none;
-}
-
-ol.roman > li:before {
-  content: counter(roman-counter, upper-roman) ". ";
-  counter-increment: roman-counter;
-}

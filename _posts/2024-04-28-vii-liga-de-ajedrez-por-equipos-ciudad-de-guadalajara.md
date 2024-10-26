@@ -1,90 +1,106 @@
-<!doctype html>
-<html lang="en">
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>VII Liga de Ajedrez por Equipos Ciudad de Guadalajara | Asociación Ajedrez Callejero Guadalajara</title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
-<nav class="navbar navbar-expand-lg bg-dark border-bottom border-body" data-bs-theme="dark">
-    <div class="container-fluid">
-        <a class="navbar-brand" href="index.html">Asociación Ajedrez Callejero Guadalajara</a>
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarNav">
-            <ul class="navbar-nav">
-                <li class="nav-item">
-                    <a class="nav-link" href="quedadas.html">Quedadas</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="torneos.html">Torneos y Actividades</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="organigrama.html">Organigrama</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="estatutos.html">Estatutos</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="mailto:ajedrezcallejeroguadalajara@gmail.com">Email</a></li>
-                <li class="nav-item"><a class="nav-link" href="https://twitter.com/aacguada">@aacguada</a>
-                <li class="nav-item"><a class="nav-link" href="https://www.instagram.com/aacguadalajara/?igshid=YmMyMTA2M2Y%3D">Instagram</a></li>
-                <li></li>
-            </ul>
-        </div>
-    </div>
-</nav>
-<div class="container">
-    <div class="row">
-        <div class="col mb-3">
+---
+title: VII Liga de ajedrez por equipos Ciudad de Guadalajara
+layout: post
+---
 
-            <article>
-                <header  class="mb-3 mt-3">
-                    <h1>VII LIGA DE AJEDREZ POR EQUIPOS “CIUDAD DE GUADALAJARA”</h1>
-                </header>
-                <div class="row">
-                    <div class="col">
-                        <img class="img-fluid" src="federacion-de-ajedrez-de-castilla-la-mancha-delegacion-guadalajara.png" alt="Federación de Ajedrez de Castilla-La Mancha Delegación Guadalajara"/>
-                    </div>
-                    <div class="col">
-                        <img class="img-fluid" src="diputacion-guadalajara.jpg" alt="Diputación Guadalajara"/>
-                    </div>
-                    <div class="col">
-                        <img class="img-fluid" src="ascociacion-ajedrez-callejero-guadalajara.png" alt="Asociación Ajedrez Callejero Guadalajara"/>
-                    </div>
-                    <div class="col">
-                        <img class="img-fluid" src="bibloteca-publica-de-guadalajara.jpg" alt="Biblioteca Pública de Guadalajara">
-                    </div>
-                </div>
+## [Resultados](https://chess-results.com/tnr933477.aspx?lan=2&art=2&turdet=YES)
 
-                    
-                    <ul class="nav nav-tabs mb-3">
-                      <li class="nav-item">
-                          <a class="nav-link" href="vii-liga-de-ajedrez-por-equipos-ciudad-de-guadalajara.html">Información</a>
-                        </li>
-                        <li class="nav-item">
-                          <a class="nav-link" href="vii-liga-de-ajedrez-por-equipos-ciudad-de-guadalajara-calendario.html">Calendario</a>
-                          </li>      
-                        <li class="nav-item">
-                            <a class="nav-link" href="https://chess-results.com/tnr933477.aspx?lan=2&art=2&turdet=YES">Emparejamientos</a>
-                        </li>
-                      <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="vii-liga-de-ajedrez-por-equipos-ciudad-de-guadalajara-bases.html">Bases</a>
-                      </li>
-                      <li class="nav-item">
-                        <a class="nav-link" href="vii-liga-de-ajedrez-por-equipos-ciudad-de-guadalajara-equipos.html">Equipos</a>
-                      </li>            
-                      <li class="nav-item">
-                      <a class="nav-link" href="vii-liga-de-ajedrez-por-equipos-ciudad-de-guadalajara-resultados.html">Resultados</a>
-                      </li>                              
-                    </ul>
-                    <section>
+<table>    
+<tbody>
+    <tr><th>Organizador</th><td>Delegación Provincial de la Federación de Ajedrez</td></tr>
+    <tr><th>Director del Torneo</th><td>Martín J. Rodríguez Valero</td></tr>
+    <tr><th>Árbitro principal</th><td>AN Alejandra Romero</td></tr>
+    <tr><th>Control de tiempo</th><td>60 minutos + 20 segundos</td></tr>
+    <tr><th>Lugar</th><td>Biblioteca Dávalos de Guadalajara</td></tr>
+    <tr><th>Rondas</th><td>5</td></tr>
+    <tr><th>Tipo de Torneo</th><td>Liga por equipos</td></tr>
+    <tr><th>Cálculo de elo</th><td>-</td></tr>
+    <tr><th>Fecha</th><td>2024/05/04 al 2024/06/29</td></tr>
+    <tr><th>Elo medio</th><td>1176</td></tr>        
+        </tbody>
+</table>
 
-                    
-                <h2>BASES</h2>
+## Equipos
+
+<ul class="list-group">
+  <li class="list-group-item">CLUB AJEDREZ AZUQUECA</li>
+  <li class="list-group-item">JOVENES UNED</li>
+  <li class="list-group-item">BIBLIOTECA PUBLICA DE GUADALAJARA	</li>
+  <li class="list-group-item">CLUB UNED GUADALAJARA</li>
+  <li class="list-group-item">AMPA VILLA DE CABANILLAS</li>
+  <li class="list-group-item">CALLEJEROS</li>
+</ul>       
+
+## Calendario
+
+<h2>Calendario</h2>
+
+<h3>Ronda 1</h3>
+<p>Ronda 1 el 04.05.2024 a las 10:00</p>
+<table class="table table-striped">
+    <thead>
+        <tr><th>Mesa</th>Equipo<th></th><th>Equipo</th></tr>
+    </thead>
+    <tbody>
+        <tr><td>Mesa 1</td><td>Club Ajedrez Azuqueca</td><td>Jovenes Uned</td></tr>
+        <tr><td>Mesa 2</td><td>Biblioteca Pública de Guadalajara</td><td>Club Uned Guadalajara</td></tr>
+        <tr><td>Mesa 3</td><td>Ampa Villa de Cabanillas</td><td>Callejeros</td></tr>
+    </tbody>        
+</table>
+
+<h3>Ronda 2</h3>
+<p>Ronda 2 el 25.05.2024 a las 10:00</p>
+<table class="table table-striped">
+    <thead>
+        <tr><th>Mesa</th>Equipo<th></th><th>Equipo</th></tr>
+    </thead>
+    <tbody>
+        <tr><td>Mesa 1</td><td>Jovenes Uned</td><td>Callejeros</td></tr>
+        <tr><td>Mesa 2</td><td>Club Uned Guadalajara</td><td>Ampa Villa de Cabanillas</td></tr>
+        <tr><td>Mesa 3</td><td>Club Ajedrez Azuqueca</td><td>Biblioteca Pública de Guadalajara</td></tr>
+    </tbody>        
+</table>
+
+<h3>Ronda 3</h3>
+<p>Ronda 3 el 15.06.2024 a las 10:00</p>
+<table class="table table-striped">
+    <thead>
+        <tr><th>Mesa</th>Equipo<th></th><th>Equipo</th></tr>
+    </thead>
+    <tbody>
+        <tr><td>Mesa 1</td><td>Biblioteca Pública de Guadalajara</td><td>Jovenes Uned</td></tr>
+        <tr><td>Mesa 2</td><td>Ampa Villa de Cabanillas</td><td>Club Ajedrez Azuqueca</td></tr>
+        <tr><td>Mesa 3</td><td>Callejeros</td><td>Club Uned Guadalajara</td></tr>
+    </tbody>        
+</table>
+
+<h3>Ronda 4</h3>
+<p>Ronda 4 el 22.06.2024 a las 10:00</p>
+<table class="table table-striped ">
+    <thead>
+        <tr><th>Mesa</th>Equipo<th></th><th>Equipo</th></tr>
+    </thead>
+    <tbody>
+        <tr><td>Mesa 1</td><td>Jovenes Uned</td><td>Club Uned Guadalajara</td></tr>
+        <tr><td>Mesa 2</td><td>Club Ajedrez Azuqueca</td><td>Callejeros</td></tr>
+        <tr><td>Mesa 3</td><td>Biblioteca Pública de Guadalajara</td><td>Ampa Villa de Cabanillas</td></tr>
+    </tbody>        
+</table>
+
+<h3>Ronda 5</h3>
+<p>Ronda 5 el 29.06.2024 a las 10:00</p>
+<table class="table table-striped">
+    <thead>
+        <tr><th>Mesa</th>Equipo<th></th><th>Equipo</th></tr>
+    </thead>
+    <tbody>
+        <tr><td>Mesa 1</td><td>Ampa Villa de Cabanillas</td><td>Jovenes Uned</td></tr>
+        <tr><td>Mesa 2</td><td>Callejeros</td><td>Biblioteca Pública de Guadalajara</td></tr>
+        <tr><td>Mesa 3</td><td>Club Uned Guadalajara</td><td>Club Ajedrez Azuqueca</td></tr>
+    </tbody>        
+</table>
+
+<h2>BASES</h2>
 
 <h3>ORGANIZACIÓN</h3>
 
@@ -214,11 +230,12 @@ Si entre el ELO de dos jugadores de un mismo equipo existe una diferencia menor 
 <p>La participación en el campeonato, supone la aceptación de estas bases.</p>
 
 <p>Para cualquier incidencia no recogida en las presentes bases se aplicarán las normas FIDE y FEDA en vigor.</p>
-                </section>
-            </article>
-        </div>
-    </div>
-</div>
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
-</body>
-</html>
+
+
+<img class="img-fluid" src="/federacion-de-ajedrez-de-castilla-la-mancha-delegacion-guadalajara.png" alt="Federación de Ajedrez de Castilla-La Mancha Delegación Guadalajara" width="150"/>
+
+<img class="img-fluid" src="/diputacion-guadalajara.jpg" alt="Diputación Guadalajara" width="150"/>
+
+<img class="img-fluid" src="/ascociacion-ajedrez-callejero-guadalajara.png" alt="Asociación Ajedrez Callejero Guadalajara" width="150"/>
+
+<img class="img-fluid" src="/bibloteca-publica-de-guadalajara.jpg" alt="Biblioteca Pública de Guadalajara" width="150"/>
