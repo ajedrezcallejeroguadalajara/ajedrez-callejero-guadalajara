@@ -5,9 +5,6 @@ layout: post
 
 La Junta Directiva de la Asociación Ajedrez Callejero convoca la junta anual ordinaria para el próximo día **Sábado, 7 de Diciembre de 2024, viernes, de 10:00 a 14:00**. El lugar será el **Sala OLED del Centro Municipal Integrado Eduardo Guitian** en Guadalajara.
 
-
-La primera convocatoria tendrá lugar a las 17:30; la segunda, a las 18:00.
-
 El orden del día será el siguiente:
 
 1. Resumen de actividades y organización 2024
