@@ -6,3 +6,5 @@ vendor
 .idea
 .nova
 .DS_Store
+/Gemfile.lock
+/Gemfile
