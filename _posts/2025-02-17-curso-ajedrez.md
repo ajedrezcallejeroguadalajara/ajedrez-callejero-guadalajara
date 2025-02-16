@@ -3,4 +3,4 @@ type: post
 title: Clases Ajedrez Espacio Tyce
 ---
 
-![](clases-ajedrez-tyce.png)
+![Clases de Ajedrez Tyce](/images/clases-ajedrez-tyce.png)
