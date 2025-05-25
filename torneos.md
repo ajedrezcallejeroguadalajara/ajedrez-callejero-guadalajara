@@ -11,6 +11,14 @@ layout: page
     </thead>
     <tbody>
         <tr>
+            <td>2025 - 17 de Mayo</td>
+            <td><a href="https://www.ajedrezguadalajara.com/noticias/ajedrez-en-la-feria-de-asociaciones">Feria de Asociaciones 2025</a></td>
+        </tr>        
+        <tr>
+            <td>2025 - 8 Marzo</td>
+            <td><a href="https://www.ajedrezguadalajara.com/noticias/8m-la-mujer-y-el-ajedrez-1">Día de la Mujer 2025</a></td>
+        </tr>        
+        <tr>
             <td>2024 - 7 de Septiembre</td>
             <td><a href="/2024/09/07/torneo-ajedrez-callejero.html">Torneo Ajedrez Callejero</a></td>
         </tr>
