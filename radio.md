@@ -1,9 +1,11 @@
 ---
-title: Radio
+title: Podcast
 layout: page
 ---
 
 # Jaque a la Descubierta
+
+[Escucha en PocketCasts](https://pca.st/n4g0ljmw)
 
 [Escucha en Apple Podcast](https://podcasts.apple.com/us/podcast/jaque-a-la-descubierta/id1815791814)
 

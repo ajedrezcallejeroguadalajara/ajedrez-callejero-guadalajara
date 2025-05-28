@@ -1,7 +1,9 @@
 ---
-title: Código de conducta
+title: Conducta
 layout: page
 ---
+
+# Código de Conducta
 
 1. Ven bien aseado y con una buena higiene.
 2. Sé amable y respetuoso con los demás.
